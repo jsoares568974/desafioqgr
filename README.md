@@ -1,5 +1,5 @@
 <p align="center">
- <img src="http://localhost:3000/static/media/logo-qgr.cae8c0d6.png" width="400" alt="Quartel General do Reino">
+ <img src="http://app.plataformaqgr.com.br/static/media/logo-qgr.cae8c0d6.png" width="400" alt="Quartel General do Reino">
 </p>
 <h1 align="center">Desafios Plataforma QGR </h1>
 <p align="center">Selecionamos alguns desafios de programação para você estudar, treinar e aprender</p>
